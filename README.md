@@ -4,4 +4,4 @@ Based on a grid pattern, random orientation, color, and styling. This highlights
 
 ## Screenshot
 
-![Line Grid Image](/images/line-grid-2.png)
+![Line Grid Image](/images/line-grid-5.png)
