@@ -27,7 +27,7 @@ let third = {
 function setup()
 {
     createCanvas(1000,1000);
-    background(240, 239, 235, 50);
+    background(240, 239, 235, 150);
     xDim = Math.floor(width / SIZE);
     yDim = Math.floor(height / SIZE);
 }
